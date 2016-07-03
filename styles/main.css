@@ -211,3 +211,16 @@ html, body {
 .mdl-demo .mdl-menu__container {
   z-index: 99;
 }
+.mdl-layout__header.mdl-layout__header--scroll.mdl-color--primary {
+	background-color: #000000 !important;
+}
+.mdl-layout__tab-bar.mdl-js-ripple-effect.mdl-color--primary-dark.mdl-js-ripple-effect--ignore-events {
+	color: #f1f1f1 !important;
+	background-color: #f1f1f1 !important;
+}
+.mdl-layout.is-upgraded .mdl-layout__tab.is-active {
+	color: #000;
+}
+.mdl-layout__tab {
+	color: #000 !important;
+}
